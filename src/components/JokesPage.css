@@ -1,0 +1,23 @@
+.jokes-heading{
+    background-color: black;
+    padding: 10px;
+    color: #ffffff;
+}
+
+
+.table {
+    border-collapse: collapse; 
+    border: 2px solid black; 
+  }
+
+  th {
+    border: 1px solid black; 
+    padding: 10px;
+  }
+  
+  
+  td {
+    border: 1px solid black; 
+    padding: 10px;
+  }
+  
